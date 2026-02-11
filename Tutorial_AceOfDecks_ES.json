@@ -1,0 +1,47 @@
+{
+  "deck": {
+    "name": "📘 Tutorial Ace Of Decks",
+    "studyLimitPerSession": 0,
+    "quizLimitPerSession": 0
+  },
+  "cards": [
+    {
+      "type": "FLASHCARD",
+      "question": "¡Bienvenido! 👋 ¿Cómo funcionan los botones de abajo?",
+      "answer": "Determinan cuándo volverás a ver esta carta:\n\n🔴 Repetir: Fallo (Podrás volver a estudiarla al acabar esta sesión)\n🟠 Difícil: Me costó (Vuelve pronto)\n🟢 Bien: Correcto (Intervalo normal)\n🔵 Fácil: Chupado (Vuelve en mucho tiempo)",
+      "explanation": "Sé sincero al puntuar. El algoritmo se adaptará a tu memoria.",
+      "wrongAnswers": []
+    },
+    {
+      "type": "TEST",
+      "question": "¿Qué es el Modo Examen?",
+      "answer": "Un modo tipo test con opciones múltiples (A, B, C, D).",
+      "explanation": "",
+      "wrongAnswers": [
+        "Un modo para cocinar",
+        "Un modo para dormir"
+      ]
+    },
+    {
+      "type": "FLASHCARD",
+      "question": "¿Cómo edito o borro?",
+      "answer": "Usa el menú (⋮) en el mazo o el lápiz (✏️) en las cartas.",
+      "explanation": "",
+      "wrongAnswers": []
+    },
+    {
+      "type": "FLASHCARD",
+      "question": "¿Cómo guardo o comparto mis mazos?",
+      "answer": "Menú del mazo (⋮) -> Exportar. Se creará un archivo .json que puedes enviar o guardar.",
+      "explanation": "",
+      "wrongAnswers": []
+    },
+    {
+      "type": "FLASHCARD",
+      "question": "¿Para qué sirve el campo 'Explicación'?",
+      "answer": "Son tus apuntes extra. Aparecen bajo la respuesta para aclarar el 'por qué' sin tener que buscar en el libro.",
+      "explanation": "Ejemplo: Esta nota extra te ayuda a entender el contexto.",
+      "wrongAnswers": []
+    }
+  ]
+}

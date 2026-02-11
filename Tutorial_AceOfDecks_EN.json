@@ -1,0 +1,47 @@
+{
+  "deck": {
+    "name": "📘 Ace Of Decks Tutorial",
+    "studyLimitPerSession": 0,
+    "quizLimitPerSession": 0
+  },
+  "cards": [
+    {
+      "type": "FLASHCARD",
+      "question": "Welcome! 👋 How do the buttons below work?",
+      "answer": "They determine when you see this card again:\n\n🔴 Again: Failed (You will see it again in this session)\n🟠 Hard: Struggled (Comes back soon)\n🟢 Good: Correct (Normal interval)\n🔵 Easy: Piece of cake (Comes back in a long time)",
+      "explanation": "Be honest when grading. The algorithm adapts to your memory.",
+      "wrongAnswers": []
+    },
+    {
+      "type": "TEST",
+      "question": "What is Quiz Mode?",
+      "answer": "A multiple-choice test mode (A, B, C, D).",
+      "explanation": "",
+      "wrongAnswers": [
+        "A mode for cooking",
+        "A mode for sleeping"
+      ]
+    },
+    {
+      "type": "FLASHCARD",
+      "question": "How do I edit or delete?",
+      "answer": "Use the menu (⋮) on the deck or the pencil (✏️) on the cards.",
+      "explanation": "",
+      "wrongAnswers": []
+    },
+    {
+      "type": "FLASHCARD",
+      "question": "How do I save or share my decks?",
+      "answer": "Deck menu (⋮) -> Export. It will create a .json file you can send or save.",
+      "explanation": "",
+      "wrongAnswers": []
+    },
+    {
+      "type": "FLASHCARD",
+      "question": "What is the 'Explanation' field for?",
+      "answer": "Your extra notes. They appear below the answer to clarify the 'why' without checking the book.",
+      "explanation": "Example: This extra note helps you understand the context.",
+      "wrongAnswers": []
+    }
+  ]
+}
